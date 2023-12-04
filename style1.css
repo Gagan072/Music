@@ -1,0 +1,18 @@
+.songItem{
+    height:50px;
+    display:flex;
+    background-color: white;
+    color:black;
+    width:110%;
+    margin:12px 0;
+    justify-content: space-between;
+    align-items:center;
+    border-radius: 34px;
+
+   
+    
+}
+.songItem img{
+    width:45px;
+    margin:0 23px 0;
+    border-radius: 34px;
